@@ -1,0 +1,6 @@
+'Profitability': ["Gross Margin", "Operating Margin", "Net Margin", "FCF Margin"],
+'Efficiency': ["ROIC", "ROCE"],
+'Financial Health': ["Current Ratio", "Debt to EBITDA Ratio"],
+'Dividend': ["Payout Ratio", "Free Cash Flow Payout Ratio"],
+'Growth': ["Next Year Projected EPS", "Next Year Projected Revenue", "Next Year Projected EBITDA"]
+
