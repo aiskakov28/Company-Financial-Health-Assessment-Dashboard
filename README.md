@@ -76,7 +76,3 @@ While contributions are welcome, please note:
 - Not intended for commercial use
 - Should not be used for financial advice
 - Follow the project's coding standards
-
-## 📜 License
-
-This project is released under the MIT License. See the LICENSE file for details.
