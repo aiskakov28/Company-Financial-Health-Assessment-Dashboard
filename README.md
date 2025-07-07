@@ -1,4 +1,4 @@
-# Company-Financial-Health-Assessment-Dashboard
+# QuickFin
 <aside>
 ⚠️ DISCLAIMER: This project is for educational purposes only. It is not intended for commercial use or to provide financial advice. Users should not rely on this tool for making investment decisions.
 
