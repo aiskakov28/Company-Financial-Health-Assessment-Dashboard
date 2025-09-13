@@ -1,4 +1,4 @@
-# 📊 QuickFin — Company Financial Health Dashboard
+# 📊 QuickFin - Company Financial Health Dashboard
 
 Exec-ready KPIs, anomaly detection, and cash-flow trends in one place.  
 Streamlines financial health analysis for public companies with a modern **Dash + dbt + AWS** stack.
@@ -122,3 +122,4 @@ git push origin feat/my-feature
 
 ### 📜 License
 Distributed under the **MIT License**. See LICENSE for more info.
+
