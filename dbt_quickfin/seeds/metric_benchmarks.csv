@@ -1,0 +1,31 @@
+metric,category,direction
+P/E,Valuation,lower_is_better
+Forward P/E,Valuation,lower_is_better
+PEG,Valuation,lower_is_better
+P/S,Valuation,lower_is_better
+P/B,Valuation,lower_is_better
+P/C,Valuation,lower_is_better
+P/FCF,Valuation,lower_is_better
+Quick Ratio,Liquidity,higher_is_better
+Current Ratio,Liquidity,higher_is_better
+Debt/Eq,Solvency,lower_is_better
+LT Debt/Eq,Solvency,lower_is_better
+ROA,Profitability,higher_is_better
+ROE,Profitability,higher_is_better
+ROI,Profitability,higher_is_better
+Gross Margin,Profitability,higher_is_better
+Oper. Margin,Profitability,higher_is_better
+Profit Margin,Profitability,higher_is_better
+Payout,Dividend,lower_is_better
+EPS Q/Q,Growth,higher_is_better
+EPS Y/Y,Growth,higher_is_better
+Sales Q/Q,Growth,higher_is_better
+EPS next 5Y,Growth,higher_is_better
+Sales past 5Y,Growth,higher_is_better
+EPS past 5Y,Growth,higher_is_better
+Insider Own,Ownership,higher_is_better
+Insider Trans,Ownership,higher_is_better
+Inst Own,Ownership,higher_is_better
+Inst Trans,Ownership,higher_is_better
+Float Short,Ownership,lower_is_better
+Dividend %,Dividend,higher_is_better

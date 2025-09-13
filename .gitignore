@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.envrc
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Node / E2E (if present)
+node_modules/
+playwright-report/
+test-results/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store

@@ -1,0 +1,13 @@
+dbt_quickfin:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: ${PG_HOST}
+      user: ${PG_USER}
+      password: ${PG_PASSWORD}
+      port: ${PG_PORT}
+      dbname: ${PG_DATABASE}
+      schema: public
+      threads: 4
+      keepalives_idle: 0

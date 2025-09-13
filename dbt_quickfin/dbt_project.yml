@@ -1,0 +1,27 @@
+name: dbt_quickfin
+version: 1.0.0
+config-version: 2
+
+profile: dbt_quickfin
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: []
+analysis-paths: []
+macro-paths: []
+snapshot-paths: []
+
+models:
+  dbt_quickfin:
+    +materialized: view
+    staging:
+      +schema: staging
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table
+
+seeds:
+  dbt_quickfin:
+    +schema: staging
+    +quote_columns: false
